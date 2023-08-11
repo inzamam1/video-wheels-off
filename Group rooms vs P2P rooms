@@ -1,0 +1,23 @@
+Group Room vs P2P rooms
+Group room max participants - 50
+P2P room max participants - 10
+
+Recordings 
+Group rooms - Yes
+P2P rooms - No
+
+Compositions
+Group rooms - Yes
+P2P rooms - No
+
+Pstn participants
+Group rooms - Yes
+P2P rooms - No
+
+Data passing through twilio
+Group rooms - Yes
+P2P rooms - No
+
+Customisations(ex-quality)
+Group rooms - Yes
+P2P rooms - No
